@@ -1,0 +1,17 @@
+# Public skeleton only. All other files are ignored.
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/DEVICE.md
+!/prebuilt/
+!/prebuilt/config/
+!/prebuilt/config/.gitkeep
+!/prebuilt/dtb/
+!/prebuilt/dtb/.gitkeep
+!/prebuilt/recovery/
+!/prebuilt/recovery/.gitkeep
+!/prebuilt/theme/
+!/prebuilt/theme/.gitkeep
+!/prebuilt/vendor_boot/
+!/prebuilt/vendor_boot/.gitkeep
